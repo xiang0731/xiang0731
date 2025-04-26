@@ -5,7 +5,7 @@ I enjoy collecting various useful items such as tools, software, apps and so on.
 
 Hopefully, my collection can be of assistance to you. 😉
 
-Wecome to my blog [Wow17](https://wow17.com) and take a break.
+Welcome to my blog [Wow17](https://wow17.com) and take a break.
 I am committed to writing tutorials that even people with zero knowledge can easily understand.
 
 * [17Tools](https://github.com/xiang0731/17toolshttps://xiang0731.github.io/17tools/) - This is an online tool, welcome to the online page [17Tools](https://xiang0731.github.io/17tools/) and have a try.
