@@ -1,5 +1,4 @@
 ### Hi there 👋 
-This is Xiang from China 🇨🇳
 
 I enjoy making tools and collecting various useful items such as tools, software, apps, and so on. 
 
