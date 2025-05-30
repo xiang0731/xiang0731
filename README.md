@@ -1,9 +1,9 @@
 ### Hi there 👋 
 This is Xiang from China 🇨🇳
 
-I enjoy collecting various useful items such as tools, software, apps and so on. 
+I enjoy making tools and collecting various useful items such as tools, software, apps, and so on. 
 
-Hopefully, my collection can be of assistance to you. 😉
+Hopefully, they can be of assistance to you. 😉
 
 Welcome to my website [Wow17](https://wow17.com).
 I am committed to writing tutorials that even people with zero knowledge can easily understand.
